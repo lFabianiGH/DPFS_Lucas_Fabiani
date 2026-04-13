@@ -37,3 +37,10 @@ Se toma como referencia la organización de productos, recomendaciones y diseño
 5. Yerba Uruguaya La Plata
 url: https://www.yerbauruguaya.com.ar
 Se toma como referente especializado en el rubro.
+
+<h1>Sobre mí</h1>
+Soy Lucas Manuel Fabiani, Analista de Sistemas de Información, estoy en un proceso de actualización de conocimientos y habilidades de desarrollo.
+
+Actualmente estoy cursando la certificación DigitalHouse de Fullstack Developer. Este proyecto forma parte del desafío profesional que se plantea como cierre del proceso de certificación. El mismo consiste en el desarrollo de un e-commerce aplicando tecnologías tales como HTML, CSS, JavaScript, React y Bases de Datos.
+
+El objetivo del proyecto es aplicar los conocimientos aquiridos durante la cursada para construir una aplicación web funcional siguiente metodologias ágiles de desarrollo.
