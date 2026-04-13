@@ -38,6 +38,9 @@ Se toma como referencia la organización de productos, recomendaciones y diseño
 url: https://www.yerbauruguaya.com.ar
 Se toma como referente especializado en el rubro.
 
+<h1>Tablero de trabajo</h1>
+https://trello.com/invite/b/69dd47064d6be07f3f951623/ATTI743508849a45795c4432863eb497813854822937/yerbamarket
+
 <h1>Sobre mí</h1>
 Soy Lucas Manuel Fabiani, Analista de Sistemas de Información, estoy en un proceso de actualización de conocimientos y habilidades de desarrollo.
 
