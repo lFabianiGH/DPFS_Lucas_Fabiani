@@ -14,3 +14,26 @@ El sitio está dirigido a:
  * Personas que desean comenzar a consumir mate y necesitan kits o productos básicos.
  * Compradores interesados en regalar prodcutos relacionados con la cultura del mate.
  * Público internacional interesado en productos típicos de Argentina.
+
+ <h3>Sitios de referencia</h3>
+A continuación se listan algunos sitios que se tomaron como referencia para el desarollo del proyecto:
+
+1. Mercado Libre
+url: https://www.mercadolibre.com.ar/
+Se toma como referencia la estructura de catálogo de productos, la visualización de precios y el diseño de las fichas de producto.
+
+2. CBSé Tienda Online
+url: https://tiendacbse.com.ar/
+Se toma como inspiración en la organización de categorías y presentación de productos.
+
+3. Pampa Direct
+url: https://pampadirect.com/
+Se como referencia de e-commerce con reventa de productos argentinos al mundo, incluyendo yerba mate y accesorios materos.
+
+4. Amazon
+url: https://www.amazon.com
+Se toma como referencia la organización de productos, recomendaciones y diseño de las páginas de detalle.
+
+5. Yerba Uruguaya La Plata
+url: https://www.yerbauruguaya.com.ar
+Se toma como referente especializado en el rubro.
